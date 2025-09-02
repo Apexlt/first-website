@@ -1,0 +1,379 @@
+body {
+    font-family: Roboto, Arial;
+    padding-top: 30px;
+    padding-bottom: 8000px;
+    background-color: rgb(234, 234, 234);
+
+  
+}
+
+.text {
+    text-align: center;
+    padding-top: 34px;
+    font-size: 36px;
+}
+
+.center {
+    display: grid;
+    width: 280px;
+    height: 224px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+   text-align: center;
+   display: inline-block;
+   margin-right: 10px;
+   
+
+}
+
+.center-pic {
+    width: 90px;
+    margin-top: 15px;
+}
+
+.centerpic-text {
+   margin-bottom: 20px;
+   font-size: 17px;
+}
+
+.centerpic-textt {
+      margin-bottom: 20px;
+   font-size: 16px;
+
+}
+
+.cenbutton {
+  border-radius: 8px;
+  border: none;
+  padding: 10px 60px 10px 60px;
+  font-weight: bold;
+  background-color: rgba(0, 0, 0, 0.06);
+  cursor: pointer;
+ 
+}
+
+.cenbutton:hover {
+    background-color: rgb(228, 228, 228);
+}
+
+.cenbuttonn:hover {
+background-color: rgb(43, 85, 202);
+}
+
+.cenbuttonn {
+     border-radius: 8px;
+  border: none;
+  padding: 10px 60px 10px 60px;
+  font-weight: bold;
+  background-color: rgb(57, 105, 239);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+ 
+
+}
+
+.centerpics {
+    margin-top: 40px;
+    margin-left: 335px;
+}
+
+.bestd {
+    position: relative;
+}
+.best {
+    position: absolute;
+    top: -10px;
+    left: 0;
+    font-size: 12px;
+    font-weight: bolder;
+    font-family: Roboto, Arial;
+    background-color: rgb(76, 186, 60);
+    padding: 4px 16px 4px 16px;
+    color:rgb(255, 255, 255);
+    border-bottom-right-radius: 12px ;
+    border-top-left-radius: 12px;
+}
+
+.trusted {
+    margin-top: 37px;
+    margin-left: 490px;
+ color:   rgb(53, 55, 72);
+ font-size: 16px;
+
+}
+
+.arrow {
+ width: 50px; 
+ height: 50px;
+ border-radius: 25px;
+ margin-left: 595px;
+ border-width: 1px;
+ border-bottom-color: rgba(0, 0, 0, 0.12);
+border-top-color: rgba(0, 0, 0, 0.12);
+border-left-color: rgba(0, 0, 0, 0.12);
+border-right-color: rgba(0, 0, 0, 0.12);
+cursor: pointer;
+
+}
+
+.arrow:hover {
+    
+    background-color: rgb(216, 216, 216);
+}
+
+.general {
+   background-image: url(homepage-btf-mobile-light.png);
+    background-size: cover; 
+     padding-top: 80px; 
+}
+
+.backimg {
+    width: 100%;
+    height: 595px;
+    background-image: url(homepage-btf-mobile-light.png);
+    background-size: cover;
+    position: relative;
+    margin-left: 130px ;
+
+}
+
+.protect {
+font-size: 55px;
+ background-image: url(homepage-btf-mobile-light.png);
+    background-size: cover;
+
+
+
+}
+
+.protected {
+    background-color: rgb(57, 105, 239);
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    border-radius: 8px;
+    border-width: 2px;
+    border-style: solid;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    margin-top: 36px;
+    font-weight: bold;
+}
+
+.light {
+    width: 980px;
+     height: 550px;
+     position:absolute;
+   right: -308px;
+   bottom: -55px;
+}
+
+.middle-text {
+    text-align: center;
+    margin-top: 180px;
+}
+
+.browser {
+    width: 1000px;
+    height: 200px;
+    border-width: 2px;
+    border-color: rgb(216, 24, 24);
+    border-style: solid;
+    border-radius: 30px;
+    margin-left: 118px;
+    background-color: white;
+    border: none;
+      margin-top: 30px;
+    padding-top: 2px;
+  
+   
+}
+
+.browser-right {
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+    column-gap: 40px;
+      border-left-width: 1px;
+     border-left-color: grey;
+     border-left-style: solid;
+     padding-left: 80px;
+   
+}
+
+.icons {
+   display: flex;
+    flex-direction: row;
+    margin-left: 105px;
+     column-gap: 40px;
+     align-items: center;
+     text-align: center;
+     
+}
+
+.mac {
+    width: 48px;
+}
+
+.iconnames {
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 16px;
+}
+
+.overall {
+    position: relative;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-top: 100px;
+}
+
+.more {
+    color: rgb(57, 105, 239);
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: -0.24px;
+    margin-top: 16px;
+    width: 119px;
+ 
+}
+
+.more:hover {
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+
+
+.front {
+    width: 267.531px;
+    height: 498.396px;
+    position: absolute;
+    right: 180px;
+    top: 0;
+   
+}
+
+.back {
+    height: 560px;
+    width: 878.719px;
+    position: absolute;
+    left: 700px;
+    bottom: -190px;
+}
+
+.web-overall{
+    margin-top: 250px;
+    position: relative;
+
+}
+
+.web-back {
+    height: 569.865px;
+    width: 292.844px;
+}
+
+.web-front {
+    height: 430.198px;
+    width: 280.771px;
+    position: absolute;
+    left: 190px;
+    top: 130px;
+}
+
+.inner {
+    position: absolute;
+    left: 530px;
+    top: 55px;
+    width: 440px;
+}
+
+
+.email-overall {
+    position: relative;
+        margin-top: 150px;
+        margin-left: 35px;
+
+}
+
+.inn {
+      width: 440px; 
+}
+
+.email {
+    width: 480px;
+    height: 700px;
+    position: absolute;
+    bottom: -162px;
+    left: 600px;
+
+}
+
+.unknown-overall {
+    margin-top: 250px;
+    margin-left: -150px;
+    position: relative;
+}
+
+.unknown-in {
+    width: 430px;
+    height: 500px;
+    position: absolute;
+    right: 90px;
+    top: 75px;
+
+}
+
+.unknown {
+height: 655px;
+width: 470px;
+}
+
+.moree {
+color: rgb(57, 105, 239);
+font-size: 24px;
+font-weight: 400;
+letter-spacing: -0.24px;
+margin-top: 16px;
+margin-left: 370px;
+width: 265px;
+
+}
+
+.moree:hover {
+text-decoration: underline;
+cursor: pointer; 
+}
+
+.downcard {
+    height: 168.958px;
+    width: 300.323px;  
+}
+
+.downcard1 {
+    width: 155px;
+    height: 155px;
+}
+       
+.burn {
+    height: 483.896px;
+    width: 250px;
+    margin-left: 40px;
+    box-shadow: 10px 5px 10px rgba(0, 0, 0, 0.05);
+}
+    
+.box {
+    display: inline-block;
+    font-size: 20px;
+    height: 25px;
+    margin-left: 7px;
+}
+       
+.boxx {
+     display: inline-block;
+    font-size: 18px;
+    height: 25px;
+    margin-left: 7px;
+}
